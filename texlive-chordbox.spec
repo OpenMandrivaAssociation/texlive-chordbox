@@ -1,6 +1,6 @@
 Name:		texlive-chordbox
 Version:	51000
-Release:	1
+Release:	2
 Summary:	Draw chord diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chordbox
