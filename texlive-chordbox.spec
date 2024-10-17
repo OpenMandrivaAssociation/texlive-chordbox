@@ -3,7 +3,7 @@ Version:	51000
 Release:	2
 Summary:	Draw chord diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chordbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/chordbox
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chordbox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chordbox.doc.r%{version}.tar.xz
